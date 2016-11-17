@@ -11,6 +11,6 @@ An array of systems for correcting errors introduced by noise or other issues re
 
 5.Channel analysis scripts based on correlating outputed pn sequences
 
-All functions should be used only to calculate performance in terms of error correction, they can not be used in real time as most of the decodiders require the full encoded message. Real time application would require suboptimal decoding of the convolutional codes and block by block interleaving. 
+All functions should be used only to calculate performance in terms of error correction, they can not be used in real time as most of the decoders require the full encoded message. Real time application would require suboptimal decoding of the convolutional codes and block by block interleaving. 
 
 
